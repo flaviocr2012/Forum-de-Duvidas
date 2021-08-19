@@ -1,7 +1,8 @@
 # Spring Boot API rest
 Segurança da API, Cache e Monitoramento
 
-Projeto criado com base no curso de API Rest da Alura
+Projeto criado com base no curso de API Rest da Alura. 
+Foi utilizado o fórum da Alura como referência para esse projeto.
 
 Principais funcionalidades desenvolvidas:
 

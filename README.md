@@ -14,5 +14,15 @@ Principais funcionalidades desenvolvidas:
 * Monitoramento com Spring Boot Actuator;
 * Documentação da API com Swagger.
 
+Stack: 
+
+* Spring Boot;
+* H2 banco de dados;
+* Spring data JPA;
+* Spring Security;
+* Spring Boot Actuator;
+* Spring Boot Cache;
+* JJWT JsonwebToken;
+* Java 8.
 
 
